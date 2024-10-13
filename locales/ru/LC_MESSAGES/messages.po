@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YT Insta Downloader Bot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-20 12:00+0000\n"
+"PO-Revision-Date: 2023-05-20 12:00+0000\n"
+"Last-Translator: Your Name <your.email@example.com>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "welcome_message"
+msgstr "👋 Добро пожаловать в YT Insta Downloader Bot!\n\n🌍 Выберите язык:"
+
+msgid "language_set"
+msgstr "🌟 Отлично! Язык установлен на {lang}.\n\n🚀 Что бы вы хотели сделать?"
+
+msgid "subscription_confirmed"
+msgstr "✅ Спасибо за подписку! Теперь вы можете использовать бота."
+
+msgid "subscription_required"
+msgstr "❌ Вы еще не подписались. Пожалуйста, присоединитесь к каналу и попробуйте снова."
+
+msgid "subscription_check_error"
+msgstr "❌ Произошла ошибка. Пожалуйста, попробуйте позже."
+
+msgid "help_text"
+msgstr ""
+"🆘 Помощь:\n\n"
+"1. 🔗 Отправьте ссылку на YouTube или Instagram для скачивания\n"
+"2. 🌍 Используйте /language для смены языка\n"
+"3. 🔄 Используйте /start для перезапуска бота\n\n"
+"💡 Совет: Вы можете использовать кнопки ниже для быстрых действий!"
+
+msgid "processing_request"
+msgstr "⏳ Обрабатываем ваш запрос... Пожалуйста, подождите."
+
+msgid "download_success"
+msgstr "✅ Скачано с помощью YT Insta Downloader bot"
+
+msgid "download_failed"
+msgstr "❌ Извините, не удалось скачать медиа. Пожалуйста, проверьте ссылку и попробуйте снова."
+
+msgid "send_link"
+msgstr "🔗 Отлично! Пожалуйста, отправьте мне ссылку на YouTube или Instagram."
+
+msgid "choose_language"
+msgstr "🌍 Выберите новый язык:"
+
+msgid "download_button"
+msgstr "📥 Скачать"
+
+msgid "help_button"
+msgstr "🆘 Помощь"
+
+msgid "change_language_button"
+msgstr "🌍 Изменить язык"
+
+msgid "download_more_button"
+msgstr "📥 Скачать еще"
+
+msgid "join_channel_button"
+msgstr "✅ Присоединиться к каналу"
+
+msgid "check_subscription_button"
+msgstr "🔄 Проверить подписку"

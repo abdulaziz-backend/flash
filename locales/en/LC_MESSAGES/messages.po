@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YT Insta Downloader Bot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-20 12:00+0000\n"
+"PO-Revision-Date: 2023-05-20 12:00+0000\n"
+"Last-Translator: Your Name <your.email@example.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "welcome_message"
+msgstr "👋 Welcome to YT Insta Downloader Bot!\n\n🌍 Choose your language:"
+
+msgid "language_set"
+msgstr "🌟 Great! Language set to {lang}.\n\n🚀 What would you like to do?"
+
+msgid "subscription_confirmed"
+msgstr "✅ Thank you for subscribing! You can now use the bot."
+
+msgid "subscription_required"
+msgstr "❌ You haven't subscribed yet. Please join the channel and try again."
+
+msgid "subscription_check_error"
+msgstr "❌ An error occurred. Please try again later."
+
+msgid "help_text"
+msgstr ""
+"🆘 Help:\n\n"
+"1. 🔗 Send a YouTube or Instagram link to download\n"
+"2. 🌍 Use /language to change the language\n"
+"3. 🔄 Use /start to restart the bot\n\n"
+"💡 Tip: You can use the buttons below for quick actions!"
+
+msgid "processing_request"
+msgstr "⏳ Processing your request... Please wait."
+
+msgid "download_success"
+msgstr "✅ Downloaded with YT Insta Downloader bot"
+
+msgid "download_failed"
+msgstr "❌ Sorry, couldn't download the media. Please check the link and try again."
+
+msgid "send_link"
+msgstr "🔗 Great! Please send me a YouTube or Instagram link to download."
+
+msgid "choose_language"
+msgstr "🌍 Choose your new language:"
+
+msgid "download_button"
+msgstr "📥 Download"
+
+msgid "help_button"
+msgstr "🆘 Help"
+
+msgid "change_language_button"
+msgstr "🌍 Change Language"
+
+msgid "download_more_button"
+msgstr "📥 Download more"
+
+msgid "join_channel_button"
+msgstr "✅ Join Channel"
+
+msgid "check_subscription_button"
+msgstr "🔄 Check Subscription"

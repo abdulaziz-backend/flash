@@ -1,0 +1,8 @@
+aiogram==3.0.0b7
+python-dotenv==0.19.2
+SQLAlchemy==1.4.31
+aiosqlite==0.17.0
+pytube==12.1.2
+instaloader==4.9.5
+asyncpg==0.27.0
+python-dotenv==1.0.0
